@@ -1,0 +1,23 @@
+.card {
+	width: 300px;
+}
+
+.material-icons {
+	font-size: 15px;
+}
+
+/*Removing navbar default margins */
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+}
+
+#info {
+	color: red
+}
+
+#heart:hover {
+	color: red !important;
+	cursor: pointer;
+	font-size: 20px;
+}
